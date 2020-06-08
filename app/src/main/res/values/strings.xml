@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MedFounder</string>
+    <string name="listabd">ListaBD</string>
+
+    <string-array name="convenios">
+        <item>Amil</item>
+        <item>Itaúde</item>
+        <item>Saúde Bradesco</item>
+    </string-array>
+</resources>
